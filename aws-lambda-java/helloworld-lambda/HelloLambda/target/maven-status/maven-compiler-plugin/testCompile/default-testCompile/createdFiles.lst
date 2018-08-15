@@ -1,0 +1,14 @@
+com/srikanth/aws/lambda/TestUtils$DynamodbEventMixin$RecordMixin.class
+com/srikanth/aws/lambda/HelloLambdaHandlerTest.class
+com/srikanth/aws/lambda/TestUtils$DynamodbEventMixin.class
+com/srikanth/aws/lambda/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com/srikanth/aws/lambda/TestContext.class
+com/srikanth/aws/lambda/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com/srikanth/aws/lambda/TestUtils.class
+com/srikanth/aws/lambda/TestUtils$DateTimeDeserializer.class
+com/srikanth/aws/lambda/TestContext$1.class
+com/srikanth/aws/lambda/TestUtils$DateTimeSerializer.class
+com/srikanth/aws/lambda/TestContext$TestLogger.class
+com/srikanth/aws/lambda/TestUtils$TestJacksonMapperModule.class
+com/srikanth/aws/lambda/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com/srikanth/aws/lambda/TestUtils$1.class
