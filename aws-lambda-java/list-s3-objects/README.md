@@ -1,5 +1,5 @@
 ## Problem Description: 
-Write a Lambda function to list S3 Buckets.
+Write a Lambda function to list objects in S3 Bucket.
 
 Steps:
 1. Create a new AWS Lambda Java Project in eclipse.
